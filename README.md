@@ -1,7 +1,7 @@
 # PurpleShade
-Custom theme for spicetify with Reddit extention  
+Custom theme for spicetify with Reddit extension  
 
-<img src="https://i.imgur.com/l1LVsWj.png" width="70%">
+<img src="https://i.imgur.com/l1LVsWj.png" width="90%">
 <p float="left">
   <img src="https://i.imgur.com/Es7vG43.png" width="45%" style="display: inline">
   <img src="https://i.imgur.com/6igVbwg.png" width="45%" style="display: inline">
