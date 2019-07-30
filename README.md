@@ -12,7 +12,10 @@ Custom theme for spicetify with Reddit extension
 Install [Spicetify-CLI](https://github.com/khanhas/spicetify-cli "Spicetify-CLI Github")  
 Paste the folder in `spicetify-cli/Themes` in your user directory  
 Get spicetify-cli config path by typing `spicetify -c`  
-Edit `config.ini` and set `current_theme    = PurpleShade`
+Edit `config.ini` and set the following  
+`extensions                   = autoSkipVideo.js`  
+`custom_apps                  = reddit | bookmark`  
+`current_theme    = PurpleShade`
 
 ### Prerequisites  
 [Spotify](https://www.spotify.com "Spotify Desktop")  
